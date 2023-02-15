@@ -1,0 +1,20 @@
+body{
+    background: orange;
+    text-align: center;
+}
+
+.botaoIniciar{
+    background: green;
+    width: 7em;
+    color: black;
+}
+.botaoParar{
+    background: rgb(245, 245, 110);
+    width: 7em;
+    color: black;
+}
+.botaoZerar{
+    background: red;
+    width: 7em;
+    color: black;
+}
